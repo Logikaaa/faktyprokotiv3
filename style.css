@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    text-align: ;
+    background-color: #FFE9E9;
+    color: red;
+    height: 60px;
+    width: 100%;
+    font-size: 40px;
+}
+img{
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+}
+.logotyp{
+    height: 60px;
+    width: 60px;
+    border-radius: 40px;
+}
+.fakt{
+    display: flex;
+    padding: 5px;
+    margin: 9px;
+    
+}
+h2{
+    text-align: center;
+}
+header{
+    background-color: #FFE9E9;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    justify-content:space-around;
+}
+
+.nav-link {
+    background-color:#FCAFAF;
+    color: #FF0000; 
+    font-size: 30px;
+    text-decoration: none;
+}
+footer{
+    background: url(https://img.wallscloud.net/uploads/thumb/1207013847/%D0%9C%D0%B8%D0%BB%D1%8B%D0%B5_%D0%BA%D0%BE%D1%82%D0%B8%D0%BA%D0%B8-1024x576-MM-80.webp);
+    background-attachment: fixed ;
+    color: #FFE9E9;
+}
+.cat{
+   border-radius:50;
+}
+.cats{
+    border: 1px solid black;
+    border-radius:600px;
+    height: 150px;
+    width: 150px;
+}
+
+p{
+    margin: 10px;
+}
